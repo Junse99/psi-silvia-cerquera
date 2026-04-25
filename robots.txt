@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://psi-silvia-cerquera.vercel.app/sitemap.xml
